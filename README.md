@@ -1,14 +1,14 @@
 # futureEcommerce 🚀👩‍🚀👨‍🚀👾
-An imaginary desktop site. It consists of a simplified version of a web page for space travel sales.
+A imaginary desktop site. It consists of a simplified version of a web page for space travel sales.
 
 ## The App
 ![futureEcommerceGIF](https://user-images.githubusercontent.com/56797122/89335027-d6198f00-d66d-11ea-987c-e2b403cf513b.gif)
 
 
 ## Tools and technologies 🛠
-Environment: Node.js
-Languages: Javascript | CSS | HTML
-Framework: ReactJS
+Environment: Node.js</br>
+Languages: Javascript | CSS | HTML</br>
+Framework: ReactJS</br>
 
 ## Running the app 🏃‍♂️
 
